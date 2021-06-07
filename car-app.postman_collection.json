@@ -20,12 +20,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/cars",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/cars",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"cars"
@@ -40,12 +41,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/cars",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/cars",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"cars"
@@ -90,12 +92,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/cars/KA01EM7070",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/cars/KA01EM7070",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"cars",
@@ -111,12 +114,13 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/cars/KA01EM7070",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/cars/KA01EM7070",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"cars",
@@ -141,12 +145,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/users",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/users",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"users"
@@ -161,12 +166,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/users",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/users",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"users"
@@ -181,12 +187,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/users/sreekar",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/users/sreekar",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"users",
@@ -202,12 +209,13 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/users/sreekar",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/users/sreekar",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"users",
@@ -223,12 +231,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/bookings/search-cars/2021-12-17T03:24:00/2022-12-17T03:24:00",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/bookings/search-cars/2021-12-17T03:24:00/2022-12-17T03:24:00",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"bookings",
@@ -246,12 +255,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/bookings/calculate-price/KA01EM7070/2021-12-17T03:24:00/2021-12-19T03:24:00",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/bookings/calculate-price/KA01EM7070/2021-12-17T03:24:00/2021-12-19T03:24:00",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"bookings",
@@ -270,12 +280,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/users/bookings/sreekar",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/users/bookings/sreekar",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"users",
@@ -301,12 +312,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/cars/book",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/cars/book",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"cars",
@@ -322,12 +334,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/cars/bookings/KA01EM8080",
-					"protocol": "http",
+					"raw": "https://salty-thicket-63417.herokuapp.com/api/cars/bookings/KA01EM8080",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"salty-thicket-63417",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"cars",
